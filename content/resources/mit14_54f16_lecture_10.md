@@ -5,6 +5,8 @@ description: 'This resource contains information regarding international trade l
 file: /courses/14-54-international-trade-fall-2016/d3ca5a729578d662933f8737a3f6a630_MIT14_54F16_Lecture_10.pdf
 file_size: 1101215
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
