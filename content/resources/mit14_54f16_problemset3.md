@@ -4,8 +4,6 @@ description: This file contains information regarding problem set 3.
 file: /courses/14-54-international-trade-fall-2016/f79f96afb9d29b4b685f7b9186f718bb_MIT14_54F16_ProblemSet3.pdf
 file_size: 649705
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
